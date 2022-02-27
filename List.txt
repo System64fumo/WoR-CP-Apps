@@ -1,27 +1,55 @@
 [Name] Chromium
 [Category] Web browsers
-[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/Chromium.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/cons/Chromium.png
 [Size] 182
-[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/Chromium.zip
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Chromium.zip
 [Path] C:\Program Files (Arm)\Chromium
 
 [Name] VLC Media player
 [Category] Entertainment
-[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/VLC.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/VLC.png
 [Size] 58
-[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/Vlc.zip
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Vlc.zip
 [Path] C:\Program Files (Arm)\Vlc
 
 [Name] Paint.Net
 [Category] Utilities
-[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/PaintDotNet.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/PaintDotNet.png
 [Size] 1.07
-[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/PaintDotNet.zip
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/PaintDotNet.zip
 [Path] C:\Program Files (Arm)\PaintDotNet
+
+[Name] Notepad++
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Notepad++.png
+[Size] 4.26
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Notepad++.zip
+[Path] C:\Program Files (Arm)\Notepad++
+
+[Name] OBS
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/OBS.png
+[Size] 32.9
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/OBS.zip
+[Path] C:\Program Files (Arm)\OBS-Studio
 
 [Name] Rainmeter
 [Category] Utilities
-[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/Rainmeter.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Rainmeter.png
 [Size] 1.85
-[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/Rainmeter.zip
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Rainmeter.zip
 [Path]C:\Program Files (Arm)\Rainmeter
+
+[Name] Rufus
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Rufus.png
+[Size] 1.36
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Rufus.zip
+[Path]C:\Program Files (Arm)\Rufus
+
+[Name] Glxgears
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Glxgears.png
+[Size] 0.01
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Glxgears.zip
+[Path]C:\Program Files (Arm)\Glxgears
