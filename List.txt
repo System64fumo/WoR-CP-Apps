@@ -12,7 +12,7 @@
 [Link] null
 [Path] null
 
-[Name] FireFox
+[Name] Firefox
 [Category] Web browsers
 [Icon] https://cdn.discordapp.com/attachments/853964331805179915/853966640265822208/Firefox.png
 [Size] 114
