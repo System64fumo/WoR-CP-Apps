@@ -1,27 +1,27 @@
 [Name] Chromium
 [Category] Web browsers
-[Icon] https://cdn.discordapp.com/attachments/853964331805179915/853966625686159380/Chromium.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/Chromium.png
 [Size] 182
-[Link] null
-[Path] null
-
-[Name] Microsoft Edge
-[Category] Web browsers
-[Icon] https://cdn.discordapp.com/attachments/853964331805179915/853966632929984522/MicrosoftEdge.png
-[Size] 118
-[Link] null
-[Path] null
-
-[Name] FireFox
-[Category] Web browsers
-[Icon] https://cdn.discordapp.com/attachments/853964331805179915/853966640265822208/Firefox.png
-[Size] 114
-[Link] null
-[Path] null
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/Chromium.zip
+[Path] C:\Program Files (Arm)\Chromium
 
 [Name] VLC Media player
 [Category] Entertainment
-[Icon] https://cdn.discordapp.com/attachments/853964331805179915/853966676205895690/VLC.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/VLC.png
 [Size] 58
-[Link] https://cdn.discordapp.com/attachments/762149836048433153/762673764387258438/Vlc0.zip
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/Vlc.zip
 [Path] C:\Program Files (Arm)\Vlc
+
+[Name] Paint.Net
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/PaintDotNet.png
+[Size] 1.07
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/PaintDotNet.zip
+[Path] C:\Program Files (Arm)\PaintDotNet
+
+[Name] Rainmeter
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Icons/Rainmeter.png
+[Size] 1.85
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/AppStore/Apps/Rainmeter.zip
+[Path]C:\Program Files (Arm)\Rainmeter
