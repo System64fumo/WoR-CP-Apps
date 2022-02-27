@@ -1,6 +1,6 @@
 [Name] Chromium
 [Category] Web browsers
-[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/cons/Chromium.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Chromium.png
 [Size] 182
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Chromium.zip
 [Path] C:\Program Files (Arm)\Chromium
@@ -49,7 +49,7 @@
 
 [Name] Glxgears
 [Category] Utilities
-[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Glxgears.png
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/glxgears.png
 [Size] 0.01
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Glxgears.zip
 [Path]C:\Program Files (Arm)\Glxgears
