@@ -3,6 +3,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Chromium.png
 [Size] 182
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Chromium.zip
+[Exe] Chrome
 [Path] C:\Program Files (Arm)\Chromium
 
 [Name] VLC Media player
@@ -10,6 +11,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/VLC.png
 [Size] 58
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Vlc.zip
+[Exe] Vlc
 [Path] C:\Program Files (Arm)\Vlc
 
 [Name] Paint.Net
@@ -17,6 +19,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/PaintDotNet.png
 [Size] 1.07
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/PaintDotNet.zip
+[Exe] PaintDotNet
 [Path] C:\Program Files (Arm)\PaintDotNet
 
 [Name] Notepad++
@@ -24,6 +27,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Notepad++.png
 [Size] 4.26
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Notepad++.zip
+[Exe] Notepad++
 [Path] C:\Program Files (Arm)\Notepad++
 
 [Name] OBS
@@ -31,6 +35,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/OBS.png
 [Size] 32.9
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/OBS.zip
+[Exe] bin\64bit\Obs64
 [Path] C:\Program Files (Arm)\OBS-Studio
 
 [Name] Rainmeter
@@ -38,6 +43,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Rainmeter.png
 [Size] 1.85
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Rainmeter.zip
+[Exe] Rainmeter
 [Path]C:\Program Files (Arm)\Rainmeter
 
 [Name] Rufus
@@ -45,6 +51,7 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/Rufus.png
 [Size] 1.36
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Rufus.zip
+[Exe] Rufus-3.11_arm64
 [Path]C:\Program Files (Arm)\Rufus
 
 [Name] Glxgears
@@ -52,4 +59,5 @@
 [Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/glxgears.png
 [Size] 0.01
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Glxgears.zip
+[Exe] Glxgears
 [Path]C:\Program Files (Arm)\Glxgears
