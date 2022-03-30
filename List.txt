@@ -44,7 +44,7 @@
 [Size] 1.85
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Rainmeter.zip
 [Exe] Rainmeter
-[Path]C:\Program Files (Arm)\Rainmeter
+[Path] C:\Program Files (Arm)\Rainmeter
 
 [Name] Rufus
 [Category] Utilities
@@ -52,7 +52,7 @@
 [Size] 1.36
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Rufus.zip
 [Exe] Rufus-3.11_arm64
-[Path]C:\Program Files (Arm)\Rufus
+[Path] C:\Program Files (Arm)\Rufus
 
 [Name] Glxgears
 [Category] Utilities
@@ -60,4 +60,4 @@
 [Size] 0.01
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Glxgears.zip
 [Exe] Glxgears
-[Path]C:\Program Files (Arm)\Glxgears
+[Path] C:\Program Files (Arm)\Glxgears
