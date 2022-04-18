@@ -61,3 +61,10 @@
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Glxgears.zip
 [Exe] Glxgears
 [Path] C:\Program Files (Arm)\Glxgears
+
+[Name] OpenGL Software Renderer
+[Category] Graphics
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/opengl.png
+[Size] 0.93
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/opengl.zip
+[Path] C:\System32
