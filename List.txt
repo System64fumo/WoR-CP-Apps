@@ -61,3 +61,11 @@
 [Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/Glxgears.zip
 [Exe] Glxgears
 [Path] C:\Program Files (Arm)\Glxgears
+
+[Name] RealVNC
+[Category] Utilities
+[Icon] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Icons/RealVNC.png
+[Size] 0.886
+[Link] https://raw.githubusercontent.com/AmirDahan/WoR-CP-Apps/main/Apps/RealVNC.zip
+[Exe] RealVNC
+[Path] C:\Program Files (Arm)\RealVNC
